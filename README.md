@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Brandon Shellenberger and I am currently studying for an M.S. in Data Analytics from Northwest Missouri State University. These are a few of my projects I have worked on through courses and outside of the class setting. I have been a High School Mathematics Teacher for 5 years and am exploring a career change in to Data Analytics. I want to dive into Sports Analytics, but starting off enywhere would be amazing!
+My name is Brandon Shellenberger and I am currently studying for an M.S. in Data Analytics from Northwest Missouri State University. These are a few of my projects I have worked on through courses and outside of the class setting. I have been a High School Mathematics Teacher for 5 years and am exploring a career change in to Data Analytics. In my off time, I love to play disc golf and being outside when the weather cooperates. I eventually want to dive into Sports Analytics, but starting off anywhere would be amazing!
 
 #### Current Projects
 I am currently working on the a couple of projects:
