@@ -1,5 +1,13 @@
 ### Hi there 👋
+My name is Brandon Shellenberger and I am currently studying for an M.S. in Data Analytics from Northwest Missouri State University. These are a few of my projects I have worked on through courses and outside of the class setting. I have been a High School Mathematics Teacher for 5 years and am exploring a career change in to Data Analytics. I want to dive into Sports Analytics, but starting off enywhere would be amazing!
 
+#### Current Projects
+I am currently working on the a couple of projects:
+- [NCAA March Madness Predictions](https://github.com/Bshell13/march_madness/tree/main)
+- [Battleship](https://github.com/Bshell13/battleship)
+I am in the early stages of both projects, so only the structure and some simple code is shown.
+
+If you have any insight into the world of data analytics or want to have a conversation, please reach out!
 <!--
 **Bshell13/Bshell13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
