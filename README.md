@@ -5,6 +5,7 @@ My name is Brandon Shellenberger and I am currently studying for an M.S. in Data
 I am currently working on the a couple of projects:
 - [NCAA March Madness Predictions](https://github.com/Bshell13/march_madness/tree/main)
 - [Battleship](https://github.com/Bshell13/battleship)
+
 I am in the early stages of both projects, so only the structure and some simple code is shown.
 
 If you have any insight into the world of data analytics or want to have a conversation, please reach out!
